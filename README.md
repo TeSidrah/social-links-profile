@@ -36,4 +36,4 @@ https://tesidrah.github.io/social-links-profile/
 ## Challenge
 
 Frontend Mentor — Social links profile  
-[Added once submitted]
+https://www.frontendmentor.io/solutions/social-links-profile-flexbox-layout-IrgWOAtSBC
